@@ -1,0 +1,17 @@
+body {
+	font-family: sans-serif;
+	font-size: 14pt;
+}
+
+div {
+	margin-top: 15%;
+	text-align: center;
+}
+
+h1 {
+	color: #e00;
+}
+
+p {
+	color: #1e1e1e;
+}
