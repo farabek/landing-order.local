@@ -1,5 +1,5 @@
 # landing-order.local
 
-# Landing - Stack: HTML, css, 
+# Landing - Stack: HTML, css, js, fancibox
 
 
